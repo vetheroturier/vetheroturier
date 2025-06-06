@@ -79,16 +79,16 @@
   > [ Contact ]
 </h3>
 <p align="center">
-  <a href="https://discord.com/users/[SEU_ID_DO_DISCORD]" target="blank">
+  <a href="https://discord.com/users/1294321337023594512" target="blank">
     <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
   </a>
-  <a href="https://www.tiktok.com/@[SEU_USUARIO_TIKTOK]" target="blank">
+  <a href="https://www.tiktok.com/@vethegod" target="blank">
     <img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" alt="TikTok"/>
   </a>
-  <a href="https://twitter.com/[SEU_USUARIO_TWITTER]" target="blank">
+  <a href="https://twitter.com/vethegodx86" target="blank">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
   </a>
-  <a href="mailto:[SEU_EMAIL@dominio.com]" target="blank">
+  <a href="mailto:vethegod@proton.me" target="blank">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
 </p>
